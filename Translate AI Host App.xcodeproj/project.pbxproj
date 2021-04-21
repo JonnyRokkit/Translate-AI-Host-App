@@ -16,6 +16,7 @@
 		491DA7EF261C82340048C119 /* Translate_AI_Host_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491DA7EE261C82340048C119 /* Translate_AI_Host_AppTests.swift */; };
 		491DA7FA261C82340048C119 /* Translate_AI_Host_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491DA7F9261C82340048C119 /* Translate_AI_Host_AppUITests.swift */; };
 		491DA808261C85AB0048C119 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491DA807261C85AB0048C119 /* StartView.swift */; };
+		491DA80A261F42810048C119 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 491DA809261F42810048C119 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		491DA7F9261C82340048C119 /* Translate_AI_Host_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Translate_AI_Host_AppUITests.swift; sourceTree = "<group>"; };
 		491DA7FB261C82340048C119 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		491DA807261C85AB0048C119 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		491DA809261F42810048C119 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				491DA7DB261C822F0048C119 /* ContentView.swift */,
 				491DA7DD261C82330048C119 /* Assets.xcassets */,
 				491DA807261C85AB0048C119 /* StartView.swift */,
+				491DA809261F42810048C119 /* HomeView.swift */,
 				491DA7E2261C82330048C119 /* LaunchScreen.storyboard */,
 				491DA7E5261C82330048C119 /* Info.plist */,
 				491DA7DF261C82330048C119 /* Preview Content */,
@@ -273,6 +276,7 @@
 				491DA7D8261C822F0048C119 /* AppDelegate.swift in Sources */,
 				491DA7DA261C822F0048C119 /* SceneDelegate.swift in Sources */,
 				491DA808261C85AB0048C119 /* StartView.swift in Sources */,
+				491DA80A261F42810048C119 /* HomeView.swift in Sources */,
 				491DA7DC261C822F0048C119 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
